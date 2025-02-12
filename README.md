@@ -1,4 +1,5 @@
-![Image title](https://i.pinimg.com/originals/da/ae/3b/daae3badfb7357d973062b2abeef24eb.gif)
+<img src="https://i.pinimg.com/originals/da/ae/3b/daae3badfb7357d973062b2abeef24eb.gif">
+
 
 ***Olá meu nome é Antônio*** 👋
 
